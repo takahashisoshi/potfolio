@@ -1,6 +1,6 @@
 # portfolio
-ポートフォリオ
-3Dシューティングゲーム「Shot」
-GameがUnityプロジェクト
-htdocsがサーバー側のプロジェクト
-finalrankingがデータベース
+ポートフォリオ¥n
+3Dシューティングゲーム「Shot」¥n
+GameがUnityプロジェクト¥n
+htdocsがサーバー側のプロジェクト¥n
+finalrankingがデータベース¥n
