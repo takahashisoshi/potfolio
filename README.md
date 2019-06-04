@@ -1,6 +1,7 @@
 # portfolio
 ポートフォリオ  
-3Dシューティングゲーム「Shot」  
+一人称3Dシューティングゲーム「Shot」  
 GameがUnityプロジェクト  
 htdocsがサーバー側のプロジェクト  
 finalrankingがデータベース  
+Unity.XAMPP.phpMyAdmin使用
