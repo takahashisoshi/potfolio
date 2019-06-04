@@ -1,5 +1,5 @@
 # portfolio
-ポートフォリオ
+ポートフォリオ  
 3Dシューティングゲーム「Shot」
 GameがUnityプロジェクト
 htdocsがサーバー側のプロジェクト
